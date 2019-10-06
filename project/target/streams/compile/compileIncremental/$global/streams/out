@@ -1,0 +1,39 @@
+[debug] Full compilation, no sources in previous analysis.
+[debug] All sources are invalidated.
+[debug] Recompiling all 3 sources: invalidated sources (3) exceeded 50.0% of all sources
+[info] Compiling 3 Scala sources to /home/rbgodwin/scala/spark_1/wikipedia/project/target/scala-2.12/sbt-1.0/classes ...
+[debug] Getting org.scala-sbt:compiler-bridge_2.12:1.2.5:compile for Scala 2.12.7
+[info] Non-compiled module 'compiler-bridge_2.12' for Scala 2.12.7. Compiling...
+[debug] Creating plain compiler interface for 2.12.7.
+[debug]   > Arguments: 
+[debug] 	-nowarn
+[debug] 	-d
+[debug] 	/tmp/sbt_26362fac
+[debug] 	-bootclasspath
+[debug] 	/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.222.b10-1.el7_7.x86_64/jre/lib/resources.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.222.b10-1.el7_7.x86_64/jre/lib/rt.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.222.b10-1.el7_7.x86_64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.222.b10-1.el7_7.x86_64/jre/lib/jsse.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.222.b10-1.el7_7.x86_64/jre/lib/jce.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.222.b10-1.el7_7.x86_64/jre/lib/charsets.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.222.b10-1.el7_7.x86_64/jre/lib/jfr.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.222.b10-1.el7_7.x86_64/jre/classes:/home/rbgodwin/.sbt/boot/scala-2.12.7/lib/scala-library.jar
+[debug] 	-classpath
+[debug] 	/tmp/sbt_c5f18c9f/jars/org.scala-sbt/compiler-interface/compiler-interface-1.2.5.jar:/tmp/sbt_c5f18c9f/jars/org.scala-sbt/util-interface/util-interface-1.2.2.jar:/tmp/sbt_c5f18c9f/srcs/org.scala-sbt/compiler-bridge_2.12/compiler-bridge_2.12-1.2.5-sources.jar:/home/rbgodwin/.sbt/boot/scala-2.12.7/lib/scala-compiler.jar:/home/rbgodwin/.sbt/boot/scala-2.12.7/lib/scala-xml_2.12.jar:/home/rbgodwin/.sbt/boot/scala-2.12.7/lib/scala-reflect.jar:/home/rbgodwin/.sbt/boot/scala-2.12.7/lib/jline.jar
+[debug] 	/tmp/sbt_4626f08/xsbt/API.scala
+[debug] 	/tmp/sbt_4626f08/xsbt/Analyzer.scala
+[debug] 	/tmp/sbt_4626f08/xsbt/CallbackGlobal.scala
+[debug] 	/tmp/sbt_4626f08/xsbt/ClassName.scala
+[debug] 	/tmp/sbt_4626f08/xsbt/Command.scala
+[debug] 	/tmp/sbt_4626f08/xsbt/Compat.scala
+[debug] 	/tmp/sbt_4626f08/xsbt/CompilerInterface.scala
+[debug] 	/tmp/sbt_4626f08/xsbt/ConsoleInterface.scala
+[debug] 	/tmp/sbt_4626f08/xsbt/DelegatingReporter.scala
+[debug] 	/tmp/sbt_4626f08/xsbt/Dependency.scala
+[debug] 	/tmp/sbt_4626f08/xsbt/ExtractAPI.scala
+[debug] 	/tmp/sbt_4626f08/xsbt/ExtractUsedNames.scala
+[debug] 	/tmp/sbt_4626f08/xsbt/GlobalHelpers.scala
+[debug] 	/tmp/sbt_4626f08/xsbt/InteractiveConsoleFactory.scala
+[debug] 	/tmp/sbt_4626f08/xsbt/InteractiveConsoleHelper.scala
+[debug] 	/tmp/sbt_4626f08/xsbt/InteractiveConsoleInterface.scala
+[debug] 	/tmp/sbt_4626f08/xsbt/InteractiveConsoleResponse.scala
+[debug] 	/tmp/sbt_4626f08/xsbt/JavaUtils.scala
+[debug] 	/tmp/sbt_4626f08/xsbt/LocalToNonLocalClass.scala
+[debug] 	/tmp/sbt_4626f08/xsbt/LocateClassFile.scala
+[debug] 	/tmp/sbt_4626f08/xsbt/Log.scala
+[debug] 	/tmp/sbt_4626f08/xsbt/Message.scala
+[debug] 	/tmp/sbt_4626f08/xsbt/ScaladocInterface.scala
+[debug]       
